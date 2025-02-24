@@ -1,0 +1,17 @@
+# Table of contents
+
+* [🦄 PodDocs Front page](README.md)
+  * [Table of contents, or how to use this resource](lrheaume/DinnimanDocs/README.md)
+    * [Table of contents](lrheaume/DinnimanDocs/SUMMARY.md)
+    * [Convention planning notes](lrheaume/DinnimanDocs/convention-planning-notes.md)
+    * [DCC HomeBrew DnD campaign Resources](lrheaume/DinnimanDocs/dcc-homebrew-dnd-campaign-resources.md)
+    * [Earth Hobby Potion Discussions](lrheaume/DinnimanDocs/earth-hobby-potion-discussions.md)
+    * [Open Source](lrheaume/DinnimanDocs/open-source.md)
+    * [Youtube Resources](lrheaume/DinnimanDocs/youtube-resources.md)
+    * [dungeon-crawler-crawl-content-pages](lrheaume/dinnimandocs/dungeon-crawler-crawl-content-pages/README.md)
+      * [DCC Notes](lrheaume/DinnimanDocs/dungeon-crawler-crawl-content-pages/dcc-notes.md)
+      * [Juicer's Gym Content Page](lrheaume/DinnimanDocs/dungeon-crawler-crawl-content-pages/juicers-gym-content-page.md)
+  * [DinnimanDocs](lrheaume/readme/README.md)
+    * [Table of contents](lrheaume/readme/table-of-contents/README.md)
+      * [E-Pubs](lrheaume/readme/table-of-contents/e-pubs.md)
+    * [Templates](https://app.gitbook.com/o/NExaAFYHJpJd85fU92lv/s/bIw7pPq7INt03JlMlF4l/)
